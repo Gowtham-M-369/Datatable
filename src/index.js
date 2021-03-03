@@ -1,6 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import Table from './app';
+import ReactDOM from 'react-dom'
 import Tab from './Dropdown'
 
 ReactDOM.render(
